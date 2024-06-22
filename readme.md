@@ -58,7 +58,6 @@ Sinta-se à vontade para contribuir com melhorias ou novas funcionalidades. Bast
 
 Esperamos que você se divirta tocando música com o **Alura Midi** tanto quanto nós nos divertimos desenvolvendo-o!
 
-# English
 
 # Alura Midi
 
